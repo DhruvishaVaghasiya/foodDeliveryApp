@@ -7,11 +7,11 @@
     android:gravity="center"
     android:background="@color/l_orange"
     android:orientation="vertical"
-    tools:context=".SplashScreenActivity">
+    tools:context=".activity.SplashScreenActivity">
 
     <ImageView
-        android:layout_width="@dimen/_150sdp"
-        android:layout_height="@dimen/_120sdp"
+        android:layout_width="@dimen/_180sdp"
+        android:layout_height="@dimen/_150sdp"
         android:src="@drawable/logoimg"/>
 
     <TextView

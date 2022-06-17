@@ -5,8 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center_horizontal"
+    android:background="@color/l_orange"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context=".activity.MainActivity">
 
     <TextView
         android:id="@+id/txtView"
@@ -36,10 +37,10 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="@dimen/_20sdp"
+            android:layout_marginTop="@dimen/_18sdp"
             android:text="Delicious Food"
-            android:textColor="@color/black"
-            android:textSize="@dimen/_20sdp"
+            android:textColor="@color/grey"
+            android:textSize="@dimen/_18sdp"
             android:textStyle="bold" />
 
         <TextView
@@ -58,22 +59,35 @@
             android:layout_marginTop="@dimen/_10sdp"
             android:gravity="center_horizontal">
 
+
+            <TextView
+                android:layout_width="@dimen/_12sdp"
+                android:layout_height="@dimen/_10sdp"
+                android:layout_marginLeft="@dimen/_7sdp"
+                android:background="@drawable/bg_layout" />
+
+            <TextView
+                android:layout_width="@dimen/_12sdp"
+                android:layout_height="@dimen/_10sdp"
+                android:layout_marginLeft="@dimen/_7sdp"
+                android:background="@drawable/bg_layout" />
+            <TextView
+                android:layout_width="@dimen/_12sdp"
+                android:layout_height="@dimen/_10sdp"
+                android:layout_marginLeft="@dimen/_7sdp"
+                android:background="@drawable/bg_layout" />
+            <TextView
+                android:layout_width="@dimen/_12sdp"
+                android:layout_height="@dimen/_10sdp"
+                android:layout_marginLeft="@dimen/_7sdp"
+                android:background="@drawable/bg_layout" />
+
             <TextView
                 android:layout_width="@dimen/_35sdp"
                 android:layout_height="@dimen/_10sdp"
+                android:layout_marginLeft="@dimen/_7sdp"
                 android:background="@drawable/round_bg_layout" />
 
-            <TextView
-                android:layout_width="@dimen/_15sdp"
-                android:layout_height="match_parent"
-                android:layout_marginLeft="@dimen/_7sdp"
-                android:background="@drawable/bg_layout" />
-
-            <TextView
-                android:layout_width="@dimen/_15sdp"
-                android:layout_height="@dimen/_10sdp"
-                android:layout_marginLeft="@dimen/_7sdp"
-                android:background="@drawable/bg_layout" />
         </LinearLayout>
 
         <androidx.appcompat.widget.AppCompatButton

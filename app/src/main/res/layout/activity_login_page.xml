@@ -7,7 +7,7 @@
     android:paddingTop="@dimen/_15sdp"
     android:orientation="vertical"
     android:paddingHorizontal="@dimen/_15sdp"
-    tools:context=".LoginPageActivity">
+    tools:context=".activity.LoginPageActivity">
 
 
     <ScrollView
@@ -18,7 +18,6 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical">
-
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="@dimen/_150sdp"
@@ -39,6 +38,7 @@
                 android:layout_marginTop="@dimen/_15sdp"
                 android:background="@drawable/edtbg_layout"
                 android:hint="Username or Email"
+                android:inputType="text"
                 android:imeOptions="actionDone"
                 android:paddingHorizontal="@dimen/_10sdp" />
 
@@ -49,6 +49,7 @@
                 android:layout_marginTop="@dimen/_10sdp"
                 android:background="@drawable/edtbg_layout"
                 android:hint="Password"
+                android:inputType="textPassword"
                 android:imeOptions="actionGo"
                 android:paddingHorizontal="@dimen/_10sdp" />
 

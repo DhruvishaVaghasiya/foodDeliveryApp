@@ -6,11 +6,9 @@
         <entry key="..\:/Dhruvisha/Food/app/src/main/res/drawable/edtbg_layout.xml" value="0.2125" />
         <entry key="..\:/Dhruvisha/Food/app/src/main/res/layout/activity_burger_page.xml" value="0.25" />
         <entry key="..\:/Dhruvisha/Food/app/src/main/res/layout/activity_home_page.xml" value="0.36666666666666664" />
-        <entry key="..\:/Dhruvisha/Food/app/src/main/res/layout/activity_login_page.xml" value="0.36666666666666664" />
         <entry key="..\:/Dhruvisha/Food/app/src/main/res/layout/activity_order_page.xml" value="0.36666666666666664" />
         <entry key="..\:/Dhruvisha/Food/app/src/main/res/layout/activity_profile_page.xml" value="0.36666666666666664" />
         <entry key="..\:/Dhruvisha/Food/app/src/main/res/layout/activity_proflie_page.xml" value="0.36666666666666664" />
-        <entry key="..\:/Dhruvisha/Food/app/src/main/res/layout/activity_sign_up_page.xml" value="0.36666666666666664" />
         <entry key="..\:/Dhruvisha/Food/app/src/main/res/layout/activity_splash_screen.xml" value="0.36666666666666664" />
         <entry key="..\:/Dhruvisha/Food/app/src/main/res/layout/activity_sushi_page.xml" value="0.36666666666666664" />
         <entry key="..\:/Dhruvisha/FoodsApp/app/src/main/res/drawable/edtbg_layout.xml" value="0.2125" />
@@ -22,6 +20,15 @@
         <entry key="..\:/Dhruvisha/FoodsApp/app/src/main/res/layout/activity_pizza_detail.xml" value="0.36666666666666664" />
         <entry key="..\:/Dhruvisha/FoodsApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.36666666666666664" />
         <entry key="..\:/Dhruvisha/FoodsApp/app/src/main/res/layout/activity_sushi_page.xml" value="0.35260416666666666" />
+        <entry key="..\:/Food/app/src/main/res/layout/activity_burger_page.xml" value="0.3625" />
+        <entry key="..\:/Food/app/src/main/res/layout/activity_certificate_splash_page.xml" value="0.3625" />
+        <entry key="..\:/Food/app/src/main/res/layout/activity_delicious_splash_page.xml" value="0.3625" />
+        <entry key="..\:/Food/app/src/main/res/layout/activity_home_page.xml" value="0.3625" />
+        <entry key="..\:/Food/app/src/main/res/layout/activity_order_page.xml" value="0.33" />
+        <entry key="..\:/Food/app/src/main/res/layout/activity_payment_splash_page.xml" value="0.3625" />
+        <entry key="..\:/Food/app/src/main/res/layout/activity_pizza_detail.xml" value="0.3625" />
+        <entry key="..\:/Food/app/src/main/res/layout/activity_profile_page.xml" value="0.3625" />
+        <entry key="..\:/Food/app/src/main/res/layout/activity_shipping_splash_page.xml" value="0.3625" />
         <entry key="..\:/dhruvisha-5944/Food/app/src/main/res/drawable/round_cardview_bg_layout.xml" value="0.174" />
         <entry key="..\:/dhruvisha-5944/Food/app/src/main/res/layout/activity_burger_page.xml" value="0.25885416666666666" />
         <entry key="..\:/dhruvisha-5944/Food/app/src/main/res/layout/activity_home_page.xml" value="0.26875" />
@@ -42,12 +49,18 @@
         <entry key="..\:/dhruvisha-5944/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/dhruvisha-5944/app/src/main/res/layout/activity_order_page.xml" value="0.25" />
         <entry key="..\:/dhruvisha/Food/app/src/main/res/layout/activity_burger_page.xml" value="0.3625" />
+        <entry key="..\:/dhruvisha/Food/app/src/main/res/layout/activity_certificate_splash_page.xml" value="0.38697916666666665" />
+        <entry key="..\:/dhruvisha/Food/app/src/main/res/layout/activity_delicious_splash_page.xml" value="0.38697916666666665" />
         <entry key="..\:/dhruvisha/Food/app/src/main/res/layout/activity_home_page.xml" value="0.3625" />
         <entry key="..\:/dhruvisha/Food/app/src/main/res/layout/activity_login_page.xml" value="0.3625" />
+        <entry key="..\:/dhruvisha/Food/app/src/main/res/layout/activity_main.xml" value="0.38697916666666665" />
         <entry key="..\:/dhruvisha/Food/app/src/main/res/layout/activity_order_page.xml" value="0.3625" />
+        <entry key="..\:/dhruvisha/Food/app/src/main/res/layout/activity_payment_splash_page.xml" value="0.38697916666666665" />
         <entry key="..\:/dhruvisha/Food/app/src/main/res/layout/activity_pizza_detail.xml" value="0.3625" />
         <entry key="..\:/dhruvisha/Food/app/src/main/res/layout/activity_profile_page.xml" value="0.33" />
+        <entry key="..\:/dhruvisha/Food/app/src/main/res/layout/activity_shipping_splash_page.xml" value="0.38697916666666665" />
         <entry key="..\:/dhruvisha/Food/app/src/main/res/layout/activity_sign_up_page.xml" value="0.3625" />
+        <entry key="..\:/dhruvisha/Food/app/src/main/res/layout/activity_splash_screen.xml" value="0.38697916666666665" />
         <entry key="..\:/dhruvisha/Food/app/src/main/res/layout/activity_sushi_page.xml" value="0.3625" />
       </map>
     </option>

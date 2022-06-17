@@ -7,7 +7,7 @@
     android:layout_marginTop="@dimen/_15sdp"
     android:orientation="vertical"
     android:layout_marginHorizontal="@dimen/_15sdp"
-    tools:context=".SushiPageActivity">
+    tools:context=".activity.SushiPageActivity">
 
 
     <LinearLayout
@@ -236,7 +236,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_marginStart="@dimen/_10sdp"
                                 android:layout_marginTop="@dimen/_60sdp"
-                                android:text="Grilled Burger"
+                                android:text="Chicken Sushi"
                                 android:textColor="@color/black"
                                 android:textSize="@dimen/_15sdp"
                                 android:textStyle="bold" />
@@ -246,7 +246,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_marginStart="@dimen/_10sdp"
                                 android:layout_marginTop="@dimen/_5sdp"
-                                android:text="Mixed Burger"
+                                android:text="Mixed Sushi"
                                 android:textStyle="bold" />
 
                             <LinearLayout
@@ -314,7 +314,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_marginStart="@dimen/_10sdp"
                                 android:layout_marginTop="@dimen/_60sdp"
-                                android:text="Chicken Burger"
+                                android:text="Grilled Sushi"
                                 android:textColor="@color/black"
                                 android:textSize="@dimen/_15sdp"
                                 android:textStyle="bold" />
@@ -324,7 +324,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_marginStart="@dimen/_10sdp"
                                 android:layout_marginTop="@dimen/_5sdp"
-                                android:text="Mixed Burger"
+                                android:text="Mixed Sushi"
                                 android:textStyle="bold" />
 
                             <LinearLayout
@@ -400,7 +400,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_marginStart="@dimen/_10sdp"
                                 android:layout_marginTop="@dimen/_60sdp"
-                                android:text="Bacon Burger"
+                                android:text="Special Sushi"
                                 android:textColor="@color/black"
                                 android:textSize="@dimen/_15sdp"
                                 android:textStyle="bold" />
@@ -410,7 +410,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_marginStart="@dimen/_10sdp"
                                 android:layout_marginTop="@dimen/_5sdp"
-                                android:text="Mixed Burger"
+                                android:text="Mixed Sushi"
                                 android:textStyle="bold" />
 
                             <LinearLayout
@@ -479,7 +479,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_marginStart="@dimen/_10sdp"
                                 android:layout_marginTop="@dimen/_60sdp"
-                                android:text="Bacon Burger   King"
+                                android:text="Grilled  Sushi   King"
                                 android:textColor="@color/black"
                                 android:textSize="@dimen/_15sdp"
                                 android:textStyle="bold" />
@@ -489,7 +489,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_marginStart="@dimen/_10sdp"
                                 android:layout_marginTop="@dimen/_5sdp"
-                                android:text="Mixed Burger"
+                                android:text="Mixed Sushi"
                                 android:textStyle="bold" />
 
                             <LinearLayout

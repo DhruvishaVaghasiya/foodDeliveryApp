@@ -7,7 +7,7 @@
     android:paddingTop="@dimen/_15sdp"
     android:orientation="vertical"
     android:paddingHorizontal="@dimen/_15sdp"
-    tools:context=".SignUpPageActivity">
+    tools:context=".activity.SignUpPageActivity">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -19,8 +19,8 @@
 
             <ImageView
                 android:id="@+id/backIcon"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="@dimen/_17sdp"
+                android:layout_height="@dimen/_17sdp"
                 android:src="@drawable/arrow_icon" />
 
             <ImageView
@@ -43,6 +43,7 @@
                 android:layout_marginTop="@dimen/_15sdp"
                 android:background="@drawable/edtbg_layout"
                 android:hint="Name"
+                android:inputType="text"
                 android:imeOptions="actionNext"
                 android:paddingHorizontal="@dimen/_10sdp" />
 
@@ -53,6 +54,7 @@
                 android:layout_marginTop="@dimen/_10sdp"
                 android:background="@drawable/edtbg_layout"
                 android:hint="Email"
+                android:inputType="text"
                 android:imeOptions="actionNext"
                 android:paddingHorizontal="@dimen/_10sdp" />
 
@@ -63,6 +65,8 @@
                 android:layout_marginTop="@dimen/_10sdp"
                 android:background="@drawable/edtbg_layout"
                 android:hint="Password"
+
+                android:inputType="numberPassword"
                 android:imeOptions="actionDone"
                 android:paddingHorizontal="@dimen/_10sdp" />
 
